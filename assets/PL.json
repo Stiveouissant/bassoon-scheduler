@@ -1,0 +1,103 @@
+{
+  "mainscreen": {
+    "Somthingwong": "Coś poszło nie tak",
+    "MainScreen": "Ekran Główny",
+    "Hi": "Cześć",
+    "Practiced": "poćwiczone już na dzisiaj?"
+  },
+  "settings": {
+    "Settings": "Ustawienia",
+    "ChooseLang": "Wybierz język",
+    "ChooseMainTheme": "Wybierz temat ekranu głównego:",
+    "ChooseFont": "Wybierz wielkość czcionki:",
+    "ChooseColor": "Wybierz kolor:"
+  },
+  "navigation": {
+    "MainScreen": "Ekran Główny",
+    "Classes": "Klasy",
+    "Lessons": "Lekcje",
+    "Settings": "Ustawienia",
+    "Account": "Konto"
+  },
+  "classes": {
+    "Somthingwong": "Coś poszło nie tak",
+    "Classes": "Klasy",
+    "InsertClassName": "Wprowadź nazwę nowej klasy fagotu",
+    "NoSpecialChars": "Bez znaków specjalnych",
+    "Name": "Nazwa",
+    "Cancel": "Anuluj",
+    "Create": "Utwórz",
+    "CreatedBy": "Założyciel:",
+    "Count": "Ilość:",
+    "AttendeesList": "Lista uczestników tej klasy:",
+    "Deleting": "Usuwanie:",
+    "DeletingThis": "Usuń tą klasę",
+    "AreYouSure": "Na pewno?",
+    "No": "Nie",
+    "Yes": "Tak"
+  },
+  "lessons": {
+    "Somthingwong": "Coś poszło nie tak",
+    "Lessons": "Lekcje",
+    "NoAttendedClasses": "Nie uczęszczasz do żadnej klasy",
+    "NoOwnedClass": "Nie masz własnej klasy!",
+    "NewLesson": "Nowa lekcja",
+    "NoSpecialChars": "Bez znaków specjalnych",
+    "OptDesc": "Opis (opcjonalny)",
+    "Date": "Data",
+    "ChooseDate": "Wybierz datę",
+    "Class": "Klasa",
+    "OnlyNums": "Tylko liczby od 1 do 10",
+    "LesAmount": "Ilość lekcji",
+    "Cancel": "Anuluj",
+    "Create": "Utwórz",
+    "NoAttendees": "Brak wpisanych",
+    "Desc": "Opis",
+    "Options": "Opcje:",
+    "DeleteThis": "Usuń tą lekcję",
+    "AreYouSure": "Na pewno?",
+    "No": "Nie",
+    "Yes": "Tak"
+  },
+  "account": {
+    "Somthingwong": "Coś poszło nie tak",
+    "Account": "Konto",
+    "AccountScreen": "Ekran logowania",
+    "LogInToContinue": "Zaloguj się aby kontynuować:",
+    "LogInWithEmail": "Zaloguj się używając Email'a",
+    "LogInWithGoogle": "Zaloguj się z Google",
+    "YourAccount": "Twoje konto",
+    "Info": "Informacje o twoim koncie:",
+    "Email": "Email: ",
+    "DisplayName": "Wyświetlana nazwa: ",
+    "Logout": "Wyloguj się"
+  },
+  "login": {
+    "Login": "Logowanie",
+    "Email": "Email",
+    "Password": "Hasło",
+    "LogginIn": "Zaloguj się",
+    "NoAccount": "Nie masz konta? ",
+    "Register": "Zarejestruj się",
+    "Forgor": "Zapomniane hasło? ",
+    "Reset": "Reset hasła"
+  },
+  "register": {
+    "Registration": "Rejestracja",
+    "Email": "Email",
+    "ValidEmail": "Wprowadź poprawny email",
+    "DisplayName": "Wyświetlana nazwa",
+    "NoSpecialChars": "Bez znaków specjalnych",
+    "Password": "Hasło",
+    "PassReqs": "Hasło powinno się składać przynajmniej z 6 znaków",
+    "Register": "Zarejestruj się"
+  },
+  "resetpass": {
+    "PassRes": "Reset hasła",
+    "SendEmail": "Wyślij wiadomość na podany email,\n żeby zresetować hasło:",
+    "Email": "Email",
+    "ValidEmail": "Wprowadź poprawny email",
+    "ResetPass": "Zresetuj hasło",
+    "SendConfirm": "Wysłano email resetujący hasło"
+  }
+}

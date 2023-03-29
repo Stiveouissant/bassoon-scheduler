@@ -1,0 +1,103 @@
+{
+  "mainscreen": {
+    "Somthingwong": "Something went wrong",
+    "MainScreen": "Main Screen",
+    "Hi": "Hi",
+    "Practiced": "have you practiced already?"
+  },
+  "settings": {
+    "Settings": "Settings",
+    "ChooseLang": "Choose language",
+    "ChooseMainTheme": "Choose main screen theme:",
+    "ChooseFont": "Choose a font size:",
+    "ChooseColor": "Choose a color:"
+  },
+  "navigation": {
+    "MainScreen": "Main Screen",
+    "Classes": "Classes",
+    "Lessons": "Lessons",
+    "Settings": "Settings",
+    "Account": "Account"
+  },
+  "classes": {
+    "Somthingwong": "Something went wrong",
+    "Classes": "Classes",
+    "InsertClassName": "Type new bassoon class name",
+    "NoSpecialChars": "No special characters",
+    "Name": "Name",
+    "Cancel": "Cancel",
+    "Create": "Create",
+    "CreatedBy": "Created by:",
+    "Count": "Count:",
+    "AttendeesList": "List of attendees:",
+    "Deleting": "Deleting:",
+    "DeletingThis": "Delete this class",
+    "AreYouSure": "Are you sure?",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "lessons": {
+    "Somthingwong": "Something went wrong",
+    "Lessons": "Lessons",
+    "NoAttendedClasses": "You're not attending any class",
+    "NoOwnedClass": "You haven't created any classes!",
+    "NewLesson": "New lesson",
+    "NoSpecialChars": "No special characters",
+    "OptDesc": "Description (optional)",
+    "Date": "Date",
+    "ChooseDate": "Choose date",
+    "Class": "Class",
+    "OnlyNums": "Only numbers from 1 to 10",
+    "LesAmount": "How many lessons",
+    "Cancel": "Cancel",
+    "Create": "Create",
+    "NoAttendees": "No attendees",
+    "Desc": "Description",
+    "Options": "Options:",
+    "DeleteThis": "Delete this lesson",
+    "AreYouSure": "Are you sure?",
+    "No": "No",
+    "Yes": "Yes"
+  },
+  "account": {
+    "Somthingwong": "Something went wrong",
+    "Account": "Account",
+    "AccountScreen": "Account screen",
+    "LogInToContinue": "Log in to continue:",
+    "LogInWithEmail": "Log in with email",
+    "LogInWithGoogle": "Log in with Google",
+    "YourAccount": "Your account",
+    "Info": "Info about your account:",
+    "Email": "Email: ",
+    "DisplayName": "Display name: ",
+    "Logout": "Log out"
+  },
+  "login": {
+    "Login": "Loging in",
+    "Email": "Email",
+    "Password": "Password",
+    "LogginIn": "Log in",
+    "NoAccount": "No account? ",
+    "Register": "Register now",
+    "Forgor": "Forgot password? ",
+    "Reset": "Reset password"
+  },
+  "register": {
+    "Registration": "Register",
+    "Email": "Email",
+    "ValidEmail": "Enter a valid email",
+    "DisplayName": "Display Name",
+    "NoSpecialChars": "No special characters allowed",
+    "Password": "Password",
+    "PassReqs": "Enter a password with atleast 6 characters",
+    "Register": "Sign up"
+  },
+  "resetpass": {
+    "PassRes": "Reset password",
+    "SendEmail": "Send a message to given email\n to reset the password:",
+    "Email": "Email",
+    "ValidEmail": "Enter a valid email",
+    "ResetPass": "Reset Password",
+    "SendConfirm": "Password reset email sent"
+  }
+}
